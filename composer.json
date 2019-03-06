@@ -13,5 +13,8 @@
     ],
     "require": {
         "getkirby/composer-installer": "^1.1"
+    },
+    "extra": {
+        "installer-name": "seokit"
     }
 }
