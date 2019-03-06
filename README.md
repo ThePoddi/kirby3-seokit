@@ -1,5 +1,9 @@
-# Kirby SEO Kit
-SEO Plugin for Kirby 3
+# Kirby 3 SEO Kit
+SEO Plugin for Kirby 3.
+
+In the first step, this plugin combines the Kirby 2 Plugins [Kirby Plugin: Robots](https://github.com/ThePoddi/kirby-robots) and [Kirby Plugin: Sitemap](https://github.com/ThePoddi/kirby-sitemap) in one SEO Kit for Kirby 3. More features like Meta Tags, Structured Data and options via panel are on my todo list.
+
+----
 
 ## Installation
 
@@ -17,9 +21,12 @@ git submodule add https://github.com/thepoddi/kirby3-seokit.git site/plugins/seo
 composer require thepoddi/kirby3-seokit
 ```
 
+----
+
 ## Usage
 This plugin sets a robots file to `/robots.txt` and a sitemap file to `/sitemap.xml` as a kirby route. There is no actual file generated.
 
+----
 
 ## Config
 
@@ -49,6 +56,7 @@ Set sitemap file in robots.txt. (string) *Default: sitemap.xml*
 ```
 'thepoddi.seokit.robots.sitemap' => 'sitemap.xml',
 ```
+
 
 ### sitemap.xml
 
