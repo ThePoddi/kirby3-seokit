@@ -99,4 +99,4 @@ Include image tags in sitemap [Google Image Sitemaps](https://support.google.com
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
