@@ -3,7 +3,7 @@
  * -------------------------------------------------------------------
  * Plugin Name: Kirby 3 SEO Kit
  * Description: SEO Kit for Kirby 3 including sitemap.xml and robots.txt
- * @version    0.1.0
+ * @version    1.0.0
  * @author     Patrick Schumacher <hello@thepoddi.com>
  * @link       https://github.com/ThePoddi/kirby3-seokit
  * @license    MIT
