@@ -1,0 +1,16 @@
+{
+    "name": "thepoddi/seokit",
+    "description": "Kirby 3 SEO Kit",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Schumacher",
+            "email": "hello@thepoddi.com",
+            "homepage": "https://www.thepoddi.com"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
