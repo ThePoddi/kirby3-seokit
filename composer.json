@@ -1,5 +1,5 @@
 {
-    "name": "thepoddi/seokit",
+    "name": "thepoddi/kirby3-seokit",
     "description": "SEO Kit for Kirby 3 including sitemap.xml and robotx.txt",
     "keywords": [ "kirby3", "plugin", "seo", "sitemap", "robots" ],
     "type": "kirby-plugin",
